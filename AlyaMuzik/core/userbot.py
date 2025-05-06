@@ -121,9 +121,9 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("Alya_Help")
-                await self.three.join_chat("TheTeamAlya")
-                await self.three.join_chat("Alya_BotUpdates")
+                await self.three.join_chat("the_team_kumsal")
+                await self.three.join_chat("the_team_kumsal")
+                await self.three.join_chat("the_team_kumsal")
             except:
                 pass
             assistants.append(3)
