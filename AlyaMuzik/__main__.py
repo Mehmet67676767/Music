@@ -22,7 +22,7 @@ from config import BANNED_USERS
 from AlyaMuzik import LOGGER, app, userbot
 from AlyaMuzik.core.call import Alya
 from AlyaMuzik.misc import sudo
-from AlyaMuzik.P bulugins import ALL_MODULES
+from AlyaMuzik.Plugins import ALL_MODULES
 from AlyaMuzik.utils.database import get_banned_users, get_gbanned
 from AlyaMuzik.core.cookies import save_cookies
 
