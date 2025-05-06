@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://envs.sh/Lx9.jpg">
+  <img src="https://ibb.co/cKx2ycbj">
 </p>
 
 <p align="center">
