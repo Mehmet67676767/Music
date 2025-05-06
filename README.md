@@ -1,10 +1,12 @@
      ◆▬▬▬▣𝗞𝗨𝗠𝗦𝗔𝗟 𝗕𝗢𝗧𝗦▣▬▬▬◆
 <h2 align="center">
-🎧━╬ﮩ٨ـﮩﮩ٨ـALYA MÜZİK ﮩ٨ـﮩﮩ٨ـ╬━🎧
+🎧━╬ﮩﮩ٨ـALYA MÜZİK ﮩﮩ٨ـ╬━🎧
 </h2>
 
 <p align="center">
-  <img src="https://ibb.co/cKx2ycbj">
+  
+<img src="https://ibb.co/cKx2ycbj">
+
 </p>
 
 <p align="center">
