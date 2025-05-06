@@ -22,7 +22,7 @@ from config import BANNED_USERS
 from AlyaMuzik import LOGGER, app, userbot
 from AlyaMuzik.core.call import Alya
 from AlyaMuzik.misc import sudo
-from AlyaMuzik.plugins import ALL_MODULES
+from AlyaMuzik.P bulugins import ALL_MODULES
 from AlyaMuzik.utils.database import get_banned_users, get_gbanned
 from AlyaMuzik.core.cookies import save_cookies
 
@@ -43,8 +43,8 @@ async def init() -> None:
     await app.start()
     await save_cookies()
     for module in ALL_MODULES:
-        importlib.import_module("AlyaMuzik.plugins" + module)
-    LOGGER("AlyaMuzik.plugins").info("Necessary Modules Imported Successfully.")
+        importlib.import_module("AlyaMuzik.Plugins" + module)
+    LOGGER("AlyaMuzik.Plugins").info("Necessary Modules Imported Successfully.")
     await userbot.start()
     await Alya.start()
     try:
